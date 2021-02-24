@@ -1,0 +1,2 @@
+Looking at python PSO implementations has definitely given me an idea of how I would want to structure my algorithm. 
+What I've come to realise is that the fitness function should account for proximity of my 
